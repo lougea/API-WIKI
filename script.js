@@ -1,4 +1,4 @@
-let userInput;'  y'
+let userInput;
 
 function setup() {
   noCanvas();
