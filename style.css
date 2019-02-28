@@ -1,0 +1,15 @@
+.logo {
+  margin : auto;
+}
+
+
+h2 {
+font-family: 'Karla', sans-serif;
+color: white;
+font-weight: bold;
+}
+
+bloc:hover {
+  background-color: grey;
+
+}
