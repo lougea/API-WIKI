@@ -1,7 +1,6 @@
-# C'est quoi ces dossiers ?
 
 # Qui a fait le projet :
-De nouveau, c'est un projet qui a très vite tourné au collaboratif car on a tous des niveaux différents du coup on m'a aidé, j'ai beaucoup aidé d'autres personnes. Je remercie tous ceux qui m'ont aidé :) Sinon, c'est moi qui a codé mon site (forcément): ***Jean-Adrian OIKONOMOU***.
+De nouveau, c'est un projet qui a très vite tourné au collaboratif car on a tous des niveaux différents du coup on m'a aidé, j'ai beaucoup aidé d'autres personnes. Je remercie tous ceux qui m'ont aidé :) Sinon, c'est moi qui a codé mon site (forcément): ***Louise Brunner***.
 
 # Qu’est-ce que c’est ?
 Une proposition d'utilisation de l'API de wikipedia
